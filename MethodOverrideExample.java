@@ -24,3 +24,4 @@ public class MethodOverrideExample {
         dog.makeSound(); // Output: Dog barks
     }
 }
+// khkhfkahksfkfuskh
